@@ -1,1 +1,4 @@
-# Applied-Plotting-Charting-Data-Representation-in-Python
+# Applied-Plotting-Charting-&-Data-Representation-in-Python
+
+This course introduces the information visualization basics, with a focus on reporting and charting using the matplotlib library. The course begins with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. Moreover, it focuses on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. It is also a tutorial of functionality available in matplotlib, and demonstrates a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course ends with a discussion of other forms of structuring and visualizing data.
+
